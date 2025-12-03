@@ -23,7 +23,7 @@ The company is evaluating whether the current e-commerce platform is still the r
 
 ---
 
-# 🧩 Full Scenario
+# Full Scenario
 
 ## Subscription & Order Flow Challenges
 - Subscription logic lives outside the commerce platform  
@@ -46,7 +46,7 @@ Is the existing e-commerce platform still the right fit — or should the compan
 
 ---
 
-# 📝 Your Task
+# Your Task
 
 Provide a **1–3 page high-level technical and strategic assessment**, focusing on how you would guide engineering direction and collaborate with cross-functional teams.
 
@@ -153,7 +153,7 @@ You may optionally reference tools for documentation or decision-tracking.
 
 ---
 
-# 📤 Submission Guidelines
+# Submission Guidelines
 - Put your response in **response.md**  
 - 1–3 pages is sufficient  
 - Use bullet points or structure as you see fit  
