@@ -153,10 +153,20 @@ You may optionally reference tools for documentation or decision-tracking.
 
 ---
 
-# Submission Guidelines
-- Put your response in **response.md**  
-- 1–3 pages is sufficient  
-- Use bullet points or structure as you see fit  
-- No coding required  
+## Submission Guidelines
 
-Thank you again for your time — we look forward to reviewing your work.
+You may submit your response in any of the following formats:
+
+- Markdown (`response.md`)
+- PDF
+- PowerPoint / Keynote slides
+- Canva export
+- Any other readable format
+
+If you choose a format other than Markdown, please add the file directly to this repository when submitting your work.
+
+Additional notes:
+
+- A length of **1–3 pages** (or equivalent in slides) is sufficient  
+- Use bullet points or any structure you prefer  
+- No coding is required
