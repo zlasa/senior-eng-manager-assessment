@@ -60,10 +60,6 @@ Long-term payoff: Full control over our data model, business logic, and integrat
 Strategic advantage: No vendor limitations blocking new features
 This would eliminaty sync issues between multiple systems. We'd easily be able to integrate observability to monitor different set of services. We'd be able to easily customize what a subscription model needs. Have full control over the data and single source of truth over our products and subscriptions.  Will be able to ship and debug much faster.
 
-
-
-
-
 ---
 
 ## 3. Recommended Approach  
@@ -78,7 +74,7 @@ This builds on what I said in the previous section.
 Describe what the future architecture *might* look like.  
 Optionally include 1–2 tools or technologies you would consider.
 [New System Architecture Diagram](/diagrams/new-system-diagram.md)
-
+I have also included [User Journeys](/diagrams/user-journeys/) that outlines basic user workflows for happy/error paths
 
 ---
 
