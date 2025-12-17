@@ -86,7 +86,7 @@ Include 1–2 tools or processes to support rollout.
 
 2. Comparing systems for data parity and ensuring the information that is communicated to the users is captured in the new system.
 
-3. Slowly start directing % of traffic. Could employ something like Canary/Launch Darkly routing. This could help us with stress testing the new solution and address bottlenecks/issues quickly through observability platform like Sentry/New Relic/Data Dog/Scout APM
+3. Slowly start directing % of traffic. Could employ something like Launch Darkly routing. This could help us with stress testing the new solution and address bottlenecks/issues quickly through observability platform like Sentry/New Relic/Data Dog/Scout APM
 
 4. We could also integrate product related observability tools to see how the users are using the new workflows and based on the behavior improve the UI if necessary.
 
