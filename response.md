@@ -18,7 +18,13 @@ If you are submitting your response in **another format** (PDF, PowerPoint, Keyn
 Describe how you would evaluate whether the current e-commerce platform should remain in the architecture.  
 Include 1–2 tools, platforms, or techniques you would use to support this evaluation.
 
-**Your answer here (or reference your file).**
+1. Interview engineers - biggest frustrations
+2. Review support tickets
+3. Cost to maintain it
+4. 3rd party support and analytics insights
+5. Flexibility to integrate new features
+6. Performance of the systems. Review SLAs
+
 
 ---
 
@@ -86,7 +92,7 @@ Include 1–2 tools or processes to support rollout.
 
 2. Comparing systems for data parity and ensuring the information that is communicated to the users is captured in the new system.
 
-3. Slowly start directing % of traffic. Could employ something like Launch Darkly routing. This could help us with stress testing the new solution and address bottlenecks/issues quickly through observability platform like Sentry/New Relic/Data Dog/Scout APM
+3. Slowly start directing % of traffic. Could employ something like Canary/Launch Darkly routing. This could help us with stress testing the new solution and address bottlenecks/issues quickly through observability platform like Sentry/New Relic/Data Dog/Scout APM
 
 4. We could also integrate product related observability tools to see how the users are using the new workflows and based on the behavior improve the UI if necessary.
 
